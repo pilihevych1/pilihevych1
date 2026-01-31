@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ruslan Pilikhevych 👋
 
-<!--
-**pilihevych1/pilihevych1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on real-world products and integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+- Custom eCommerce platforms (Next.js + Supabase)
+- eBay / Shopify / payment gateway integrations
+- Admin dashboards & internal tools
+- Data integrity, sync logic, and performance
+
+---
+
+## 🧠 Current focus
+- eBay ↔ custom store synchronization
+- Authorize.Net payment flows
+- Scalable product catalogs (5k–10k+ items)
+
+---
+
+## 🛠 Tech stack
+**Frontend**
+- Next.js, React, TypeScript
+- Tailwind CSS
+
+**Backend**
+- Supabase, PostgreSQL
+- API routes, Edge functions
+
+**Integrations**
+- eBay Trading API
+- Shopify
+- Authorize.Net
+
+**Tools**
+- Git, Vercel, Cursor
+
+---
+
+## 📫 Contact
+- Email: pilihevych@gmail.com
